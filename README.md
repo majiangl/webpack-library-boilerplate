@@ -35,3 +35,7 @@ module.exports = {
 };
 ```
 3. run `npm run build`.
+
+### Reference
+
+[Webpack Guides Authoring Libraries](https://webpack.js.org/guides/author-libraries/)
