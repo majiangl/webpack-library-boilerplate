@@ -38,4 +38,5 @@ module.exports = {
 
 ### Reference
 
-[Webpack Guides Authoring Libraries](https://webpack.js.org/guides/author-libraries/)
+-[Webpack Guides Authoring Libraries](https://webpack.js.org/guides/author-libraries/)
+-[Universal Module Definition](https://github.com/majiangl/umd)
