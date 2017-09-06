@@ -4,10 +4,11 @@ The UMD pattern is compatible in different environments, i.e. CommonJS, AMD, Nod
 
 Write you code using CMD or ES6 module, and webpack will build a file that works everywhere.
 
-## Usage
+### Usage
 
 1. Write your code in `src` folder.
-2. Complete `webpack.config.js`
+
+2. Fill missing message in `webpack.config.js`.
 
 ```javascript
 var path = require('path');
@@ -33,4 +34,4 @@ module.exports = {
   // }
 };
 ```
-3. run `npm run build`
+3. run `npm run build`.
